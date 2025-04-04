@@ -14,7 +14,7 @@ Find the different tips between smokers and non-smokers, gender, time, weekend. 
 2. Non-smokers they less tipped in bettween 2 dollars to 4 dollars. However, they had tipped in 5 dollars to 9 dollars
 **General conclusion:**
 Smokers is tipping more than non-smokers in range 2 dollars to 4 dollars, non-smokers tend to tip more than smokers in range 6-8 dollars.
-!["tips_by_smokers"](/image/chart 1)
+!["tips_by_smokers"](/image/chart 1.png)
 
 
 
