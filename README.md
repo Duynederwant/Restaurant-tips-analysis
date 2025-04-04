@@ -22,14 +22,16 @@ Smokers is tipping more than non-smokers in range 2 dollars to 4 dollars, non-sm
 ## 👨👩 Do males give more tips?
 **General conclusion:**
 Male tipped > Female tipped
-
+![Tipsbygender](/image/Static2.png)
 ## 📆 Do weekends bring more tips?
 **General conclusion:**
 They all tipped in weekend.
 Sunday is the day they tipped the most.Saturday is they tipped highest price.
+![Tipsbyweekends](/image/Static1.png)
 
 ## 🕑 Do dinners bring more tips?
 **General conclusion:**
 Dinner has the biggest tips > Lunch tips
+![Tipsbytime](/image/Static3.png)
 
 
