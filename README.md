@@ -22,6 +22,7 @@ Smokers is tipping more than non-smokers in range 2 dollars to 4 dollars, non-sm
 ## 👨👩 Do males give more tips?
 **General conclusion:**
 Male tipped > Female tipped
+
 ![Tipsbygender](/image/Static2.png)
 ## 📆 Do weekends bring more tips?
 **General conclusion:**
